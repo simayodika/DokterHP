@@ -1,0 +1,30 @@
+	
+<?php
+$aksesList = array(
+    'tambahSparePart.php',
+    'prosesTambahSP.php',
+    'tambahModel.php',
+    'prosesTambahModel.php',
+    'prosesTambahStok.php',
+    'dashboard.php',
+    'prosesDashboard.php',
+     'prosesEditSparepart.php',
+    'viewSparepart.php',
+    'editSparepart.php',
+    'tambahStok.php',
+    'hapusSparepart.php',
+    'viewTransaksi.php',
+    'historyStok.php',
+    'historyTransaksi.php',
+    'viewService.php',
+    'tambahService.php',
+    'prosesTambahService.php',
+    'prosesEditService.php',
+    'editService.php',
+    'viewModel.php',
+    'prosesTambahService.php','prosesTambahService.php',
+    'prosesTambahService.php',
+    'editModel.php',
+    'prosesEditModel.php'
+)
+?>
